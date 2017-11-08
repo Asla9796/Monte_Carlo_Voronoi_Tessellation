@@ -1,0 +1,2 @@
+Grain growth using Monte Carlo technique on a microstructure prepared using Voronoi tessellation.
+Voronoi tessellation is peformed using inbuilt MATLAB functions, in the file 'mat_voronoi_gen.m'
